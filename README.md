@@ -35,7 +35,7 @@ Este projeto implementa uma API REST para gerenciar um quadro **Kanban** de tare
 - A tarefa deve ser movida entre as colunas na ordem: A Fazer → Em Progresso → Concluído.
 - O título da tarefa é obrigatório; descrição e data limite são opcionais.
 
-## Endpoints da API (0,5 ponto)
+## Endpoints da API 
 
 ### Tarefas
 - **POST** `/tasks`: Criar uma nova tarefa na coluna "A Fazer".
