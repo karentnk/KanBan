@@ -9,7 +9,7 @@ Este projeto implementa uma API REST para gerenciar um quadro **Kanban** de tare
 - **Postman** (para testes de API)
 
 ## Requisitos Funcionais
-1. **Cadastro de Tarefas **:
+1. **Cadastro de Tarefas**:
    - Cada tarefa deve conter:
      - Título 
      - Descrição
@@ -18,14 +18,14 @@ Este projeto implementa uma API REST para gerenciar um quadro **Kanban** de tare
      - Prioridade 
      - Data limite 
 
-2. **Gerenciamento de Tarefas **:
+2. **Gerenciamento de Tarefas**:
    - Criar novas tarefas na coluna "A Fazer".
    - Listar todas as tarefas organizadas por coluna 
    - Mover uma tarefa entre as colunas do Kanban 
    - Editar uma tarefa (alterar título, descrição, prioridade, etc.).
    - Excluir uma tarefa.
 
-3. **Funcionalidades Extras **:
+3. **Funcionalidades Extras**:
    - Ordenar tarefas dentro de cada coluna por prioridade.
    - Filtrar tarefas por prioridade e data limite.
    - Gerar um relatório que liste as tarefas por coluna e destaque as tarefas atrasadas (com data limite passada e status não "Concluído").
