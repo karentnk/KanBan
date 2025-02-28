@@ -1,3 +1,4 @@
+
 package com.example.crudproject.model;
 
 import jakarta.persistence.*;
